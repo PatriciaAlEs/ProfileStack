@@ -1,5 +1,7 @@
 # ProfileStack
 
+[English](README.md) · [Castellano](README.es.md)
+
 One career story, many role-ready CVs.
 
 <p align="center">
